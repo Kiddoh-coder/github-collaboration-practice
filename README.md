@@ -15,3 +15,10 @@ Learning:
 - GitHub
 - Python
 - Software Development
+## Collaboration Lesson
+
+Today I learned about:
+- Feature branches
+- Collaboration workflows
+- Pull requests
+- Code reviews
