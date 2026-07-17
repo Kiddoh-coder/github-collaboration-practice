@@ -22,3 +22,9 @@ Today I learned about:
 - Collaboration workflows
 - Pull requests
 - Code reviews
+
+## stashing and cleaning working directory
+
+Today I am learning stashing and cleaning:
+- stashing
+- cleaning
